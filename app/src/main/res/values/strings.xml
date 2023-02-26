@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">LESO CHAT</string>
+    <string name="welcome_to_leso_chat">WELCOME TO LESO</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="log_in">Log In</string>
+    <string name="sign_in">Sign In</string>
+    <string name="new_user_sign_in">New User ? Sign In</string>
+    <string name="name">Name</string>
+    <string name="click_on_sign_in_to_creat_account">Click On Sign In to Creat Account</string>
+    <string name="azad_mosarof">Azad Mosarof</string>
+    <string name="log_out">Log Out</string>
+    <string name="this_is_sent_message">This is Sent message</string>
+    <string name="this_is_recieve_message">This is recieve message</string>
+    <string name="add_user">Add User</string>
+    <string name="enter_your_contacts_email">Enter your contacts email</string>
+    <string name="add_new_contact_to_your_contacts_list">Add New Contact To Your Contacts List</string>
+    <string name="add_contacts">Add Contacts</string>
+</resources>
